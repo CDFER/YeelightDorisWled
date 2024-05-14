@@ -1,4 +1,4 @@
-# Teardown
+# Teardown - WIP, Come back when it is finished
 ![Overview](DSC05492.JPG)
 ![CONTROL_PCB_Back](DSC05488.JPG)
 What look like pads on the back are actully just thermal, all are connected to GND
